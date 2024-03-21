@@ -1,17 +1,21 @@
 Терминал:
 
-![терминал](https://github.com/SavenkovaAV/mispis10-main/assets/90615021/63e2edd8-29ce-4b34-84bb-770318f86ff7)
+![терминал](https://github.com/SavenkovaAV/mispis_lab10/assets/90615021/96f5e7e0-57d6-483c-a435-fff5c4f4096a)
+
 
 UseCase:
 
-![image](https://github.com/valdesius/mispis10/assets/58388133/d044e479-933c-445f-a91d-089ee9e66f70)
+![юз кейс](https://github.com/SavenkovaAV/mispis_lab10/assets/90615021/31ccc4d4-2846-4f7c-ad8f-4bc54e76b842)
+
 
 SequenceDiagram:
 
-![image](https://github.com/valdesius/mispis10/assets/58388133/ab7efc86-5feb-4309-9cf6-28cbe312ff1e)
+![секьюэнс](https://github.com/SavenkovaAV/mispis_lab10/assets/90615021/d8d370e8-eb51-4123-b6d1-9d8dd6f1a02e)
+
 
 StateDiagram:
 
-![image](https://github.com/valdesius/mispis10/assets/58388133/35a7c62c-403e-43e7-905e-d302d51d7040)
+![стейт](https://github.com/SavenkovaAV/mispis_lab10/assets/90615021/b022de7e-a2f6-4cb8-9957-e84bf81a98d2)
+
 
 
